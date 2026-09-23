@@ -22,3 +22,10 @@ Construir soluciones basadas en datos para resolver problemas reales de negocio,
 Los proyectos profesionales se irán incorporando durante el desarrollo del portfolio.
 ## Estado
 Portfolio en desarrollo dentro de una hoja de ruta profesional de data,BI,Automation e Inteligencia Artificial.
+## Próximos pasos
+
+- SQL avanzado
+- Power BI y modelado de datos
+- Python para análisis y automatización
+- APIs y n8n
+- Inteligencia Artificial aplicada
